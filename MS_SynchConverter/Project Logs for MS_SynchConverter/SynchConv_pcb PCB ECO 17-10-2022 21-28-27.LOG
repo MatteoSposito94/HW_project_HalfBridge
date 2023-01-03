@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=CURR_IN Pin=U1-1
+Removed Pin From Net: NetName=CURR_IN Pin=U1-2
+Removed Pin From Net: NetName=CURR_OUT Pin=U1-3
+Removed Pin From Net: NetName=CURR_OUT Pin=U1-4
+Change Component Comment : Designator=R1 Old Comment=4R7 New Comment=1k
+Change component parameters: Designator = "R1" ("R1"); Footprint = "Res_0805"; UniqueID = "\XUWJDKLG" ("\XUWJDKLG")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CURR_OUT Pin=U1-1
+Added Pin To Net: NetName=CURR_OUT Pin=U1-2
+Added Pin To Net: NetName=CURR_IN Pin=U1-3
+Added Pin To Net: NetName=CURR_IN Pin=U1-4
+Added Member To Class: ClassName=SynchConv_sch Member=Component C1 100nF
+Added Member To Class: ClassName=SynchConv_sch Member=Component C2 470uF
+Added Member To Class: ClassName=SynchConv_sch Member=Component C3 100nF
+Added Member To Class: ClassName=SynchConv_sch Member=Component C4 100nF
+Added Member To Class: ClassName=SynchConv_sch Member=Component C5 100nF
+Added Member To Class: ClassName=SynchConv_sch Member=Component J2 691502710002
+Added Member To Class: ClassName=SynchConv_sch Member=Component J4 691502710002
+Added Member To Class: ClassName=SynchConv_sch Member=Component R1 1k
+Added Member To Class: ClassName=SynchConv_sch Member=Component R2 4R7
+Added Member To Class: ClassName=SynchConv_sch Member=Component R3 10R
+Added Member To Class: ClassName=SynchConv_sch Member=Component R5 10k
+Added Member To Class: ClassName=SynchConv_sch Member=Component R6 3k
+Added Member To Class: ClassName=SynchConv_sch Member=Component R7 4R7
+Added Member To Class: ClassName=SynchConv_sch Member=Component R9 1k
+Added Member To Class: ClassName=SynchConv_sch Member=Component R11 1k
+Added Member To Class: ClassName=SynchConv_sch Member=Component TP3 TP_big
+Added Member To Class: ClassName=SynchConv_sch Member=Component U1 TMCS1107A4BQDRQ1

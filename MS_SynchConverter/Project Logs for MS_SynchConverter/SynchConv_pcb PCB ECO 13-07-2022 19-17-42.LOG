@@ -1,0 +1,8 @@
+Added Component: Designator=M1(M3_Mountingholes plated)
+Added Component: Designator=M2(M3_Mountingholes plated)
+Added Component: Designator=M3(M3_Mountingholes plated)
+Added Component: Designator=M4(M3_Mountingholes plated)
+Added Member To Class: ClassName=SynchConv_sch Member=Component M1 mounting hole plated
+Added Member To Class: ClassName=SynchConv_sch Member=Component M2 mounting hole plated
+Added Member To Class: ClassName=SynchConv_sch Member=Component M3 mounting hole plated
+Added Member To Class: ClassName=SynchConv_sch Member=Component M4 mounting hole plated

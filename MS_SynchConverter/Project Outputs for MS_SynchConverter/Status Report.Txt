@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MS_SynchConverter.PrjPcb]
+   Generated File[SynchConv_pcb.TXT]
+   Generated File[SynchConv_pcb.LDP]
+   Generated File[SynchConv_pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:08:38 On 21/10/2022
